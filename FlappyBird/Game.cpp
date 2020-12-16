@@ -286,6 +286,7 @@ void run_game()
 
 		update();
 
+<<<<<<< HEAD
 		bird_pos++;
 		k++;
 		p++;
@@ -295,6 +296,17 @@ void run_game()
 	gameOver();
 	
 }
+=======
+
+
+
+
+
+
+
+
+
+>>>>>>> 671f26dad9c35f26581565b1b8c63d49abef83e5
 
 
 
