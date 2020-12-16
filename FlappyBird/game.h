@@ -16,9 +16,23 @@ void draw_screen();
 
 void draw_bird();
 
-void draw_obstacle();          
+// draw & erase first obstacle
 
-void erase_obstacle();        
+void draw_Fobstacle();          
+
+void erase_Fobstacle();      
+
+// draw & erase second obstacle
+
+void draw_Sobstacle();
+
+void erase_Sobstacle();
+
+// updating obstacles and score
+
+void update();
+
+// user input
  
 void input();                
 
