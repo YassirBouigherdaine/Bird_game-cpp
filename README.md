@@ -1,4 +1,4 @@
-# Bird_game-cpp
+# FlappyBird_game-cpp
 
 
     The game is written by C++, with gameplay similar to the popular game : "Flappy Bird".
